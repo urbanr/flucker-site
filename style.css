@@ -36,3 +36,4 @@ img { display: block; width: 100%; height: auto; margin: 12px 0 8px; border: 1px
 .toc { columns: 2; column-gap: 32px; padding-left: 20px; }
 @media (max-width: 600px) { .toc { columns: 1; } }
 nav a { margin-right: 16px; }
+img.logo { width: 96px; height: 96px; border: none; border-radius: 0; margin: 0 0 12px; }
